@@ -1,0 +1,11 @@
+{
+  "drill_size": 20,
+  "new_per_day": 20,
+  "hint_enabled": true,
+  "identify_mcq_enabled": true,
+  "mock_enabled": true,
+  "export_pdf_enabled": true,
+  "grid_default": false,
+  "zoom_max": 8,
+  "rating_prompt_enabled": false
+}

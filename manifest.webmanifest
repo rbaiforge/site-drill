@@ -1,0 +1,11 @@
+{
+  "name": "Site-Drill",
+  "short_name": "Site-Drill",
+  "description": "Free daily map drill of historical sites, with instant verified feedback and no login.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#2f45a5",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

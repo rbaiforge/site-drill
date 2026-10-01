@@ -1,0 +1,12 @@
+Site-Drill (https://rbaiforge.github.io/site-drill/)
+
+Copyright (c) 2026 rbaiforge. All rights reserved.
+
+The hints, notes and key points in the site packs are original writing by rbaiforge.
+They may not be copied, republished or used in another product without written permission.
+
+Site coordinates come from Wikidata (CC0) and the sources cited on each site.
+India outline: Natural Earth 1:10m India point of view (public domain).
+Open-source components keep their own licences (see About > Credits).
+
+Contact: rbaiforge@gmail.com

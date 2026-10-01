@@ -1,0 +1,1 @@
+function e(e={}){let t=new Map(Object.entries(e).map(([e,t])=>[e,JSON.stringify(t)]));return{get:e=>{let n=t.get(e);return Promise.resolve(n===void 0?void 0:JSON.parse(n))},set:(e,n)=>(t.set(e,JSON.stringify(n)),Promise.resolve()),del:e=>(t.delete(e),Promise.resolve()),keys:(e=``)=>Promise.resolve([...t.keys()].filter(t=>t.startsWith(e)).sort())}}export{e as t};
